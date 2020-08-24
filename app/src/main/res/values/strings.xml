@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="some_error_occurred">Some error occurred</string>
+    <string name="start">start</string>
+    <string name="completed">completed</string>
+    <string name="str_download_completed">completed</string>
+    <string name="pause">pause</string>
+    <string name="cancel">cancel</string>
+    <string name="resume">resume</string>
+    <string name="restart">restart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="network_error">Network Error</string>
+    <string name="search_edt_hint">Paste a downloading URL here</string>
+    <string name="str_url_check">Please enter a valid url</string>
+    <string name="str_file_check">Already Downloaded the file</string>
+    <string name="str_Cancel_check">Downloaded Cancelled</string>
+    <string name="str_note_deleted">File Deleted</string>
+    <string name="str_image_detected">Image Viewer not Implemented</string>
+    <string name="network_error_text">Please check your network settings.</string>
+    <string name="str_download">Download</string>
+</resources>
